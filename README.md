@@ -1,6 +1,6 @@
 # Auto Mouse Clicker
 
-Auto Mouse Clicker is a lightweight, portable Windows utility for automated left and right mouse clicking. It provides independent click-speed control, quick CPS presets, global start and stop hotkeys, live click counters and a safety-focused arming workflow.
+Auto Mouse Clicker is a lightweight, portable Windows utility for automated left and right mouse clicking. It provides independent click-speed control, quick CPS presets, global start and stop hotkeys, live click counters and a safety-focused arming workflow. The application operates locally and does not require an internet connection.
 
 ## Current Version
 
@@ -52,6 +52,10 @@ Stable Windows x64 release.
 - x64
 - No installation required
 - No administrator privileges required
+
+## Privacy & Connectivity
+
+Auto Mouse Clicker operates locally and does not require an internet connection. It does not use user accounts, cloud services, telemetry or automatic update checks. Settings and diagnostic logs are stored locally on the computer.
 
 ## Integrity
 
